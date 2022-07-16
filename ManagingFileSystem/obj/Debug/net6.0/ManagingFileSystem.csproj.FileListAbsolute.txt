@@ -1,0 +1,15 @@
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\bin\Debug\net6.0\ManagingFileSystem.exe
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\bin\Debug\net6.0\ManagingFileSystem.deps.json
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\bin\Debug\net6.0\ManagingFileSystem.runtimeconfig.json
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\bin\Debug\net6.0\ManagingFileSystem.dll
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\bin\Debug\net6.0\ManagingFileSystem.pdb
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\obj\Debug\net6.0\ManagingFileSystem.csproj.AssemblyReference.cache
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\obj\Debug\net6.0\ManagingFileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\obj\Debug\net6.0\ManagingFileSystem.AssemblyInfoInputs.cache
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\obj\Debug\net6.0\ManagingFileSystem.AssemblyInfo.cs
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\obj\Debug\net6.0\ManagingFileSystem.csproj.CoreCompileInputs.cache
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\obj\Debug\net6.0\ManagingFileSystem.dll
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\obj\Debug\net6.0\refint\ManagingFileSystem.dll
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\obj\Debug\net6.0\ManagingFileSystem.pdb
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\obj\Debug\net6.0\ManagingFileSystem.genruntimeconfig.cache
+C:\Yamini\yam\Learn\DotNetLearning\ManagingFileSystem\obj\Debug\net6.0\ref\ManagingFileSystem.dll
