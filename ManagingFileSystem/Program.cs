@@ -25,19 +25,35 @@
             //        $"- {info.Name} - {info.FullName}-{info.LastWriteTime} - {info.LastAccessTime} - {info.Extension}");
             //}
 
-            string path = Path.Combine(rootPath, "A", "B");
-            bool exists = Directory.Exists(path);
-            if (!exists)
-            {
-                Console.WriteLine("Not exists");
-                Directory.CreateDirectory(path);
-                Console.WriteLine("created");
-            }
-            else
-            {
-                Console.WriteLine("Exists");
-            }
+            // create directory if not exists
+            //string path = Path.Combine(rootPath, "A", "B");
+            //bool exists = Directory.Exists(path);
+            //if (!exists)
+            //{
+            //    Console.WriteLine("Not exists");
+            //    Directory.CreateDirectory(path);
+            //    Console.WriteLine("created");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Exists");
+            //}
 
+            // copy files
+            string[] files = Directory.GetFiles(rootPath);
+            string destPath = Path.Combine(rootPath, "A");
+            //foreach(var file in files)
+            //{
+            //    File.Copy(file, $"{destPath}\\{Path.GetFileName(file)}", true);
+            //}
+            //for(int i = 0; i < files.Length; i++)
+            //{
+            //    File.Copy(files[i], $"{destPath}\\{i}.txt", true);
+            //}
+            foreach (var file in files)
+            {
+                File.Move(file, $"{destPath}\\{Path.GetFileName(file)}");
+            }
 
             Console.ReadLine();
         }
